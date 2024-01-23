@@ -15,4 +15,5 @@ RUN sed -i 's/\<VirtualHost \*\>/\<VirtualHost \*:6666\>/' /etc/apache2/sites-en
 # Set the ServerName directive
 RUN echo "ServerName localhost" >> /etc/apache2/apache2.conf
 
-COPY files/index.html /var/www/html/index.html
+COPY TASK4JENKINS/files/index.html /var/www/html/index.html
+
