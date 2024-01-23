@@ -1,0 +1,12 @@
+2024-01-23
+START REST API CALL
+============
+FIRST API CALL
+============
+ERROR
+Status Code: 
+SECOND API CALL
+============
+Status Code: 
+Interfaces: 
+END REST API CALL
